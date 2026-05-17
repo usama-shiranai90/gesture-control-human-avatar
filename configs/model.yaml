@@ -1,0 +1,39 @@
+# Model and estimation configuration
+model:
+  # Pose estimation
+  pose:
+    model_complexity: 2           # 0 = lite, 1 = full, 2 = heavy
+    min_detection_confidence: 0.5
+    min_tracking_confidence: 0.5
+    enable_segmentation: true
+
+  # Body validation
+  validation:
+    min_visibility_threshold: 0.5
+    required_landmarks:
+      - "nose"
+      - "left_shoulder"
+      - "right_shoulder"
+      - "left_hip"
+      - "right_hip"
+      - "left_knee"
+      - "right_knee"
+      - "left_ankle"
+      - "right_ankle"
+    max_persons: 1
+
+  # Image quality
+  quality:
+    min_brightness: 40
+    max_brightness: 220
+    min_blur_score: 100.0         # Laplacian variance threshold
+    min_resolution: [480, 640]
+
+  # BMI estimation
+  bmi:
+    categories:
+      underweight: [0, 18.5]
+      normal: [18.5, 24.9]
+      overweight: [25.0, 29.9]
+      obesity: [30.0, 100.0]
+    min_confidence_threshold: 0.5  # Below this, flag as uncertain

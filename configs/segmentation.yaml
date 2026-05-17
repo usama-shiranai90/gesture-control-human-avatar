@@ -1,0 +1,19 @@
+# Segmentation configuration
+segmentation:
+  # Primary method: "rembg", "mediapipe", "yolo"
+  method: "rembg"
+
+  # rembg settings
+  rembg:
+    model_name: "u2net_human_seg"  # Optimized for human segmentation
+    alpha_matting: true
+    alpha_matting_foreground_threshold: 240
+    alpha_matting_background_threshold: 10
+
+  # Mask refinement
+  refinement:
+    morphology_kernel_size: 5
+    gaussian_blur_size: 3
+    min_contour_area: 5000        # Minimum area to keep (removes noise)
+    fill_holes: true
+    smooth_edges: true

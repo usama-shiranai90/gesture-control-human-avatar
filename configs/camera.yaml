@@ -1,0 +1,9 @@
+# Camera configuration
+camera:
+  index: 0                # 0 = default webcam, 1+ = external cameras
+  width: 1280
+  height: 720
+  fps: 30
+  warmup_frames: 10       # Frames to skip on startup for auto-exposure
+  flip_horizontal: true   # Mirror mode for natural interaction
+  backend: null            # null = auto, or cv2.CAP_DSHOW for Windows

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f95a4c06-e91d-492a-8827-e6717b2bbd62" name="Changes" comment="- Update `.gitignore` to exclude `.idea`, `.claude`, outputs, and raw captures." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="59" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "usama-shiranai90"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/usama-shiranai90/gesture-control-human-avatar.git",
+    "accountId": "af5a6d6e-295b-42c5-86b2-36963ac2e2db"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3DqMgmOGV4GN56CJpXZ0jrkYxst" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1cd77e80b48f-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.32098.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f95a4c06-e91d-492a-8827-e6717b2bbd62" name="Changes" comment="" />
+      <created>1779005260374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779005260374</updated>
+      <workItem from="1779005261586" duration="6481000" />
+    </task>
+    <task id="LOCAL-00001" summary="- Update `.gitignore` to exclude `.idea`, `.claude`, outputs, and raw captures.&#10;- Add backend configuration for camera initialization in `main.py`.&#10;- Improve error handling for Windows webcams to retry with DirectShow backend in `webcam.py`.&#10;- Remove deprecated `chumpy` dependency from `environment.yml`.&#10;- Fix escaping issue with OBJ data in `app.py` to prevent syntax errors in embedded HTML.">
+      <option name="closed" value="true" />
+      <created>1779010957200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779010957200</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Update `.gitignore` to exclude `.idea`, `.claude`, outputs, and raw captures.">
+      <option name="closed" value="true" />
+      <created>1779011556529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779011556529</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Update `.gitignore` to exclude `.idea`, `.claude`, outputs, and raw captures.&#10;- Add backend configuration for camera initialization in `main.py`.&#10;- Improve error handling for Windows webcams to retry with DirectShow backend in `webcam.py`.&#10;- Remove deprecated `chumpy` dependency from `environment.yml`.&#10;- Fix escaping issue with OBJ data in `app.py` to prevent syntax errors in embedded HTML." />
+    <MESSAGE value="- Update `.gitignore` to exclude `.idea`, `.claude`, outputs, and raw captures." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Update `.gitignore` to exclude `.idea`, `.claude`, outputs, and raw captures." />
+  </component>
+</project>

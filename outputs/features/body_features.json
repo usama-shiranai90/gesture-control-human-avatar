@@ -1,0 +1,14 @@
+{
+  "shoulder_width_px": 449.3,
+  "hip_width_px": 264.6,
+  "shoulder_hip_ratio": 1.698,
+  "torso_length_px": 631.4,
+  "leg_length_px": 938.7,
+  "arm_length_px": 438.7,
+  "body_height_px": 1824,
+  "head_body_ratio": 0.123,
+  "posture_angle_deg": 3.81,
+  "posture_quality": "good",
+  "body_height_ratio": 2.533,
+  "front_facing_score": 0.916
+}

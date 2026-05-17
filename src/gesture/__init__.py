@@ -1,0 +1,1 @@
+from src.gesture.thumbs_up_detector import ThumbsUpDetector

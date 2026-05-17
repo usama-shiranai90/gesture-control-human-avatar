@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "Bash(python -c \":*)",
+      "Bash(.venv/Scripts/python -c \":*)",
+      "Bash(/c/Users/OneEyeOwl/anaconda3/python -c \"import cv2; print\\(cv2.__version__\\)\")",
+      "Read(//c/Users/OneEyeOwl/anaconda3/envs//**)",
+      "Read(//c/Users/OneEyeOwl/anaconda3/Scripts/**)",
+      "Bash(/c/Users/OneEyeOwl/anaconda3/envs/gesture-3d-body/python -c \"\nimport cv2\nbackends = [\\('Default', None\\), \\('CAP_DSHOW', cv2.CAP_DSHOW\\), \\('CAP_MSMF', cv2.CAP_MSMF\\)]\nprint\\('Scanning camera indices 0-4 across backends...'\\)\nfor idx in range\\(5\\):\n    for name, backend in backends:\n        try:\n            cap = cv2.VideoCapture\\(idx, backend\\) if backend is not None else cv2.VideoCapture\\(idx\\)\n            opened = cap.isOpened\\(\\)\n            if opened:\n                w = int\\(cap.get\\(cv2.CAP_PROP_FRAME_WIDTH\\)\\)\n                h = int\\(cap.get\\(cv2.CAP_PROP_FRAME_HEIGHT\\)\\)\n                fps = cap.get\\(cv2.CAP_PROP_FPS\\)\n                print\\(f'  index={idx} backend={name}: OPEN  {w}x{h} @ {fps:.0f}fps'\\)\n            else:\n                print\\(f'  index={idx} backend={name}: FAILED'\\)\n            cap.release\\(\\)\n        except Exception as e:\n            print\\(f'  index={idx} backend={name}: ERROR - {e}'\\)\n\")"
+    ]
+  }
+}

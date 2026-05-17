@@ -1,0 +1,52 @@
+name: gesture-3d-body
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - pillow
+  - scikit-image
+  - imageio
+  - matplotlib
+  - plotly
+  - jupyter
+  - notebook
+  - pip:
+      - opencv-python
+      - mediapipe
+      - ultralytics
+      - rembg
+      - torch
+      - torchvision
+      - torchaudio
+      - trimesh
+      - open3d
+      - pyrender
+      - pyglet
+      - networkx
+      - smplx
+      - scikit-learn
+      - xgboost
+      - lightgbm
+      - streamlit
+      - gradio
+      - fastapi
+      - uvicorn
+      - python-multipart
+      - pydantic
+      - pydantic-settings
+      - hydra-core
+      - omegaconf
+      - loguru
+      - tqdm
+      - rich
+      - python-dotenv
+      - pytest
+      - black
+      - ruff
+      - isort

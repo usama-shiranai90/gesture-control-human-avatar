@@ -1,0 +1,17 @@
+# Gesture detection configuration
+gesture:
+  # Detection model
+  model_complexity: 1           # 0 = lite, 1 = full
+  min_detection_confidence: 0.7
+  min_tracking_confidence: 0.5
+  max_num_hands: 2
+
+  # Thumbs-up detection thresholds
+  thumbs_up:
+    confidence_threshold: 0.70
+    consecutive_frames_required: 10  # Must detect for N consecutive frames
+    cooldown_seconds: 5.0            # Ignore triggers for N seconds after capture
+
+  # Visual feedback
+  draw_landmarks: true
+  show_gesture_label: true

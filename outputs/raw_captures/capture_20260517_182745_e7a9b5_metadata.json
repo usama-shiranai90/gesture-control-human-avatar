@@ -1,0 +1,15 @@
+{
+  "capture_id": "capture_20260517_182745_e7a9b5",
+  "timestamp": "2026-05-17T18:27:48.708916",
+  "file_path": "C:\\Users\\OneEyeOwl\\WebstormProjects\\Self\\gesture-control-human-avatar\\outputs\\raw_captures\\capture_20260517_182745_e7a9b5.jpg",
+  "resolution": {
+    "width": 640,
+    "height": 480
+  },
+  "gesture_confidence": 0.741,
+  "quality": {
+    "blur_score": 1094.11,
+    "brightness": 73.39
+  },
+  "processing_status": "captured"
+}

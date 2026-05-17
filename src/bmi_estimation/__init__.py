@@ -1,0 +1,1 @@
+from src.bmi_estimation.bmi_estimator import BMICategoryEstimator
