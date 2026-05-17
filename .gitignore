@@ -3,6 +3,25 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/.idea/
+/.claude/
+/outputs/
+/.data/
+
+**/outputs/
+**/features/
+**/images/
+**/meshes/
+**/raw_captures/
+**/reports/
+
+**/.idea/
+**/.claude/
+**/.data/
+
+*.html
+*.jpg
+
 # C extensions
 *.so
 

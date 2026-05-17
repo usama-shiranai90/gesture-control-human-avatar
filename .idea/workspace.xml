@@ -4,14 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f95a4c06-e91d-492a-8827-e6717b2bbd62" name="Changes" comment="- Update `.gitignore` to exclude `.idea`, `.claude`, outputs, and raw captures." />
+    <list default="true" id="f95a4c06-e91d-492a-8827-e6717b2bbd62" name="Changes" comment="- Update `.gitignore` to exclude `.idea`, `.claude`, outputs, and raw captures.">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/raw_captures/capture_20260517_181437_ce2eff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/raw_captures/capture_20260517_181437_ce2eff_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/raw_captures/capture_20260517_182001_8cc863.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/raw_captures/capture_20260517_182001_8cc863_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/raw_captures/capture_20260517_182006_d5f092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/raw_captures/capture_20260517_182006_d5f092_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/features/bmi_estimation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/features/body_features.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/features/body_landmarks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_captures/capture_20260517_182745_e7a9b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_captures/capture_20260517_182745_e7a9b5_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_captures/capture_20260517_183149_3a36f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/raw_captures/capture_20260517_183149_3a36f9_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/reports/report.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="59" />
+    <option name="cachedIndexableFilesCount" value="88" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -20,47 +38,47 @@
     <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "usama-shiranai90"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;usama-shiranai90&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/usama-shiranai90/gesture-control-human-avatar.git",
-    "accountId": "af5a6d6e-295b-42c5-86b2-36963ac2e2db"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/usama-shiranai90/gesture-control-human-avatar.git&quot;,
+    &quot;accountId&quot;: &quot;af5a6d6e-295b-42c5-86b2-36963ac2e2db&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3DqMgmOGV4GN56CJpXZ0jrkYxst" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1779005260374</updated>
       <workItem from="1779005261586" duration="6481000" />
+      <workItem from="1779011887959" duration="163000" />
     </task>
     <task id="LOCAL-00001" summary="- Update `.gitignore` to exclude `.idea`, `.claude`, outputs, and raw captures.&#10;- Add backend configuration for camera initialization in `main.py`.&#10;- Improve error handling for Windows webcams to retry with DirectShow backend in `webcam.py`.&#10;- Remove deprecated `chumpy` dependency from `environment.yml`.&#10;- Fix escaping issue with OBJ data in `app.py` to prevent syntax errors in embedded HTML.">
       <option name="closed" value="true" />
